@@ -118,13 +118,13 @@ You can check out the **live demo** of the Job Portal by clicking [**here**](htt
 
 ### 🔄 **User Interaction Flowchart**
 
-![User Interaction Flowchart](./flowchart/user_interaction_flowchart.png)
+![User Interaction Flowchart](./flowchart/user_interaction_flowchart.png.png)
 
 ---
 
 ### 🛠️ **Technology Stack Flowchart**
 
-![Technology Stack Flowchart](./flowchart/technology_stack_flowchart.png)
+![Technology Stack Flowchart](./flowchart/technology_stack_flowchart.png.png)
 
 ---
 
